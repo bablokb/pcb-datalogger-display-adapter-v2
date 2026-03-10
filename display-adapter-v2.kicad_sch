@@ -6,8 +6,8 @@
 
   (title_block
     (title "Display-Adapter-v2")
-    (date "2026-02-23")
-    (rev "1.00")
+    (date "2026-03-10")
+    (rev "1.01")
     (company "Bernhard Bablok")
     (comment 1 "https://github.com/bablokb/pcb-datalogger-display-adapter-v2")
     (comment 2 "https://opendeved.net/ilce")
@@ -1847,7 +1847,7 @@
     (property "Value" "Inky_Left_1_20" (at 80.645 31.75 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x21_P2.54mm_Vertical" (at 86.995 60.325 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical" (at 86.995 60.325 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 86.995 60.325 0)
@@ -1919,7 +1919,7 @@
     (property "Value" "Inky_Right_21_40" (at 120.65 31.75 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x21_P2.54mm_Vertical" (at 112.395 62.865 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical" (at 112.395 62.865 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 112.395 62.865 0)
