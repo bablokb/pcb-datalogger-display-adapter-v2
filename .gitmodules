@@ -1,0 +1,3 @@
+[submodule "3D/modules"]
+	path = 3D/modules
+	url = https://github.com/bablokb/3D-generic-modules.git
