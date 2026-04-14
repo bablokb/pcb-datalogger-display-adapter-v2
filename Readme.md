@@ -41,13 +41,6 @@ Layout
 ![](pcb-3D-bottom.png)
 
 
-3D-Case
--------
-
-![](case.png)
-![](pcb-with-case.jpg)
-
-
 License
 -------
 
