@@ -16,6 +16,12 @@ The pinout of the "input pins" is optimized for these datalogger PCB:
   - [Datalogger-v3 PCB](https://github.com/bablokb/pcb-datalogger-v3)
 
 
+There is a minimal case available for the display, mainly to stabilze it:
+
+![](case.png)
+![](pcb-with-case.jpg)
+
+
 Schematic
 ---------
 
@@ -33,6 +39,13 @@ Layout
 
 ![](pcb-3D-top.png)
 ![](pcb-3D-bottom.png)
+
+
+3D-Case
+-------
+
+![](case.png)
+![](pcb-with-case.jpg)
 
 
 License
